@@ -1,1 +1,3 @@
-texto inserido no arquivo 4 direto na branc master.
+este arquivo foi inserido diretamente na master. alterrei essa linha na branch final/.
+
+inclusao de uma linha na branch final.
